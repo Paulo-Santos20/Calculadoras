@@ -22,12 +22,7 @@ body {
    
 }
 
-img {
-    background-image:url('.img/Tela.png');
-    background-size: cover;
-     background-position: center center;
-     background-attachment: fixed;
-}
+
 
 .wrapper {
     backdrop-filter: blur(5.5px);

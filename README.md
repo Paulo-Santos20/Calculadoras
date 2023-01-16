@@ -4,3 +4,4 @@
 - Funções calculadora
 - Criar calculadora Iphone
 - Criar calculadora Android
+- Responsividade

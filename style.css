@@ -18,11 +18,8 @@ body {
     font-family: 'Dosis', sans-serif;
     font-display: swap;
     height: inherit;
-    justify-content: center;   
-   
+    justify-content: center;
 }
-
-
 
 .wrapper {
     backdrop-filter: blur(5.5px);
@@ -103,6 +100,6 @@ body {
     flex-basis: 47%;
 }
 
-.triple{
+.triple {
     flex-basis: 73%;
 }
